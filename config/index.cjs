@@ -10,10 +10,10 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-plus'，
   
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx9ca22dc44406ff66',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '5876a42f363ad0e4c399ab033db27bc6',
+  APP_SECRET: '',
 
   PROVINCE: '广东',
   CITY: '江门',
@@ -59,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'if_1f2_return_0',
     }
   ],
 
